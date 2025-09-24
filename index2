@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Daniel Altieri — Resume</title>
+  <style>
+    /* Minimal, fully-used CSS for readability */
+    :root { --text:#111; --muted:#555; --max:820px; }
+    body { margin: 2rem; font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: var(--text); }
+    main { max-width: var(--max); }
+    h1 { margin: 0 0 .25rem; font-size: 1.9rem; }
+    h2 { margin: 1.75rem 0 .5rem; font-size: 1.25rem; }
+    h3 { margin: 1rem 0 .25rem; font-size: 1.05rem; }
+    p  { margin: .5rem 0; }
+    ul { margin: .25rem 0 .75rem 1.25rem; }
+    .meta { color: var(--muted); }
+    .role { font-weight: 600; }
+    .space { margin-top: .25rem; }
+    header { margin-bottom: 1rem; }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Daniel Altieri</h1>
+      <p class="meta">Resume</p>
+      <!-- Optional: add contact links below
+      <p><a href="mailto:you@examplexample.com</a> · <a href="https://www.linkedin.comrofile/linkedin.com/in/yourprofile</a></p>
+      -->
+    </header>
+
+    <section id="summary">
+      <h2>Summary</h2>
+      <p>
+        I am a skilled communicator and passionate technologist with 20+ years of experience in complex, global IT solutions from mainframes to cloud AI. I’m a sales‑savvy technology leader who can help turn an elevator pitch into a closed deal. Committed to equity in technology with active engagement to mentor and volunteer in community technology education.
+      </p>
+      <h3>Highlights</h3>
+      <ul>
+        <li>Inclusive leader delivering multi‑year business transformation projects in South America, Europe, and Asia.</li>
+        <li>Developed and implemented high‑quality sales and technical training at IBM, Oracle, and Microsoft.</li>
+        <li>Achieved up to 700% of sales quota for enterprise software solutions in complex sales environments.</li>
+        <li>Built a business‑critical global financial application in under 6 months from concept to implementation.</li>
+      </ul>
+    </section>
+
+    <section id="experience">
+      <h2>Professional Experience</h2>
+
+      <h3>Microsoft Corporation · Oct. 2014 – Present</h3>
+
+      <p class="space"><span class="role">Director, AI Sales Strategy</span> — AI Innovation &amp; Activation, Raleigh, NC · Aug. 2024 – Present</p>
+      <ul>
+        <li>Led strategic initiatives to drive innovation and operational excellence in AI adoption globally; identified opportunities to model Customer Zero AI transformation.</li>
+        <li>Program development and implementation achieved a 44% increase in Copilot AI daily usage (recognized as “Most Improved” team).</li>
+        <li>Helped build an AI‑Assisted Sales program from concept to implementation; delivered sessions globally to gather feedback.</li>
+        <li>Delivered 30%+ increase in AI learning confidence scores, engaging 15K+ global learners in an adoption program.</li>
+      </ul>
+
+      <p class="space"><span class="role">Director, Sales Strategy</span> — Commercial Solution Areas: Cross‑Solutions · Aug. 2022 – Aug. 2024</p>
+      <ul>
+        <li>Built new sales motions by engaging customers to craft business‑value‑led solutions across Azure, Modern Work, Business Applications, and Security.</li>
+        <li>Created onboarding and training for 70 globally distributed senior sales leaders.</li>
+        <li>Launched a global sales readiness dashboard with 1,300+ learning sessions to enable data‑driven decisions.</li>
+      </ul>
+
+      <p class="space"><span class="role">Director, Sales Readiness Business Program Manager</span> — AI Business Solutions · Aug. 2021 – Aug. 2022</p>
+      <ul>
+        <li>Built and delivered global sales readiness in partnership with Sales Management, Product Marketing, Engineering, and Solution Area leadership.</li>
+        <li>Co‑created and delivered a new technical sales training program; onboarded 1,200+ new hires.</li>
+      </ul>
+
+      <p class="space"><span class="role">Principal Solution Engineer, Education Industry</span> — AI Business Solutions · Oct. 2014 – Aug. 2021</p>
+      <ul>
+        <li>Drove AI business solution platform cloud sales with significant success across K‑12 and Higher Education.</li>
+        <li>Cloud Share Fighter Champion Award for a major competitive win.</li>
+        <li>First $1M+ Higher Education AI Business Solutions cloud sales win over a major competitor.</li>
+        <li>Microsoft Certified Trainer recognition for AI platform training development and delivery.</li>
+      </ul>
+
+      <h3>Oracle America, Inc. · Oct. 2011 – Oct. 2014</h3>
+      <p class="space"><span class="role">Senior Sales Consultant</span> — Oracle Cloud, Burlington, MA</p>
+      <ul>
+        <li>Delivered solution proposals for Oracle Cloud Customer Experience applications across enterprise and emerging accounts.</li>
+        <li>Engaged in 260+ unique accounts/sales cycles — 135+ deals won; $15M+ annual revenue.</li>
+        <li>Created sales training curriculum and helped build a new Oracle Sales Academy — 1,500 new hires onboarded in 5 months.</li>
+      </ul>
+
+      <h3>RSD America · Aug. 2009 – Aug. 2010</h3>
+      <p class="space"><span class="role">Software Sales Consultant</span> — U.S. Sales, Teaneck, NJ</p>
+      <ul>
+        <li>Developed direct sales client acquisition and lead generation campaigns alongside Account Executives.</li>
+        <li>Nominated for reward by a top customer for CRM Integration Analysis that closed a $1M+ deal.</li>
+        <li>Created a tailored “customer care” approach leveraging the existing base to build new pipeline and revenue.</li>
+      </ul>
+
+      <h3>Allen Systems Group · Jan. 2008 – Feb. 2009</h3>
+      <p class="space"><span class="role">Solution Sales Engineer</span> — North American Sales, Rye, NY</p>
+      <ul>
+        <li>Led solution sales from lead development through final negotiations across the North America territory.</li>
+        <li>Closed 700%+ of individual quota on deals requiring multiple proof‑of‑concept stages with eight Account Executives.</li>
+        <li>Delivered major wins at Citigroup, AXA Financial, Bear Stearns, Verizon, QVC, and ADP.</li>
+      </ul>
+
+      <h3>IBM · Jun. 1999 – Jan. 2008</h3>
+
+      <p class="space"><span class="role">Sr. Project Manager, Worldwide Channel Finance</span> — Sales &amp; Distribution, Somers, NY · Sep. 2007 – Jan. 2008</p>
+      <ul>
+        <li>Pitched productivity enhancement projects to IBM Global Executive Sales Management and managed approved process improvements.</li>
+        <li>Led a high‑priority revenue reporting improvement project for IBM sales channels worldwide.</li>
+        <li>Defined a best‑practices sales reporting standard with global and local sales executives.</li>
+      </ul>
+
+      <p class="space"><span class="role">Sr. Project Manager, Finance Systems Deployment</span> — IBM Global Financing, Business Transformation/CIO, Armonk, NY · Jan. 2004 – Sep. 2007</p>
+      <ul>
+        <li>Led international teams across India, Europe, and the USA for business process and IT re‑engineering projects.</li>
+        <li>Managed complex change with Sales, Marketing, and Customer Service executives; negotiated $1–12M project budgets.</li>
+        <li>Managed global project teams of 10–40 people across multiple divisions and countries; developed a new training methodology for onboarding.</li>
+      </ul>
+
+      <p class="space"><span class="role">Systems Analyst, Multi‑Country Support Lead</span> — Customer Financing Systems · Nov. 2001 – Dec. 2003</p>
+      <ul>
+        <li>Managed testing, development, and support of a globally distributed ERP‑level financing system.</li>
+        <li>Coordinated annual release definition, delivery, testing, and implementation of 200+ requirements for seven countries.</li>
+        <li>Analyzed Chile Financing business processes and delivered a new system implementation in &lt; 6 months.</li>
+      </ul>
+
+      <p class="space"><span class="role">Programmer Analyst, Canada Finance Support</span> — Customer Financing Systems · Jan. 1999 – Nov. 2001</p>
+      <ul>
+        <li>Led support and development for IGF Canada’s lease financing system; coordinated offshore developers and PMs.</li>
+        <li>Received “One Team” award for improving customer satisfaction by 150% and resolving an accounting error for a $40M fiscal improvement.</li>
+        <li>Streamlined asset‑backed securities and working capital reconciliation, reducing procedures by 50%.</li>
+      </ul>
+    </section>
+
+    <section id="education">
+      <h2>Education</h2>
+
+      <p class="space"><span class="role">Doctor of Education</span> — Vanderbilt University, Peabody College: Leadership and Learning in Organizations · Nashville, TN · 2023</p>
+
+      <p class="space"><span class="role">Master of Science</span> — New York University, Management (IT Systems Concentration) · New York, NY · 2008</p>
+
+      <p class="space"><span class="role">Bachelor of Arts</span> — Western Connecticut State University, Economics · Danbury, CT · 2000</p>
+      <p><span class="role">Bachelor of Business Administration</span> — Western Connecticut State University, Management Information Systems · Danbury, CT · 2000</p>
+    </section>
+
+    <section id="skills">
+      <h2>Technical Competency Areas</h2>
+      <ul>
+        <li>Data Science &amp; AI Development</li>
+        <li>Certified ITIL/BPM</li>
+        <li>Cloud Architecture</li>
+        <li>Certified Project Manager</li>
+        <li>AI Pair Coding: Copilot, Cursor, CLINE, etc.</li>
+        <li>Solution &amp; Value Selling (Certified)</li>
+        <li>Agile Development &amp; User‑Centered Design</li>
+        <li>Software Design &amp; Analysis</li>
+        <li>Java &amp; J2EE Development</li>
+        <li>Design Thinking</li>
+        <li>Six Sigma (Trained)</li>
+        <li>Enterprise Architecture &amp; Design</li>
+        <li>Windows/Linux/Unix/Mainframe OS</li>
+        <li>SQL Analysis &amp; Database Development</li>
+      </ul>
+
+      <p class="meta">Additional Interests: Community Service · Volunteering · Woodworking · Mentoring · Technology Education</p>
+    </section>
+  </main>
+</body>
+</html>
